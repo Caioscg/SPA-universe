@@ -9,8 +9,6 @@
 }
 
 body {
-    background-image: url(./assets/mountains-universe-1.png);
-    background-size: cover;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -73,7 +71,7 @@ button:hover {
     background-color: white;
 }
 
-#bg-3, #bg-2, #bg-1 {
+#bg-1, #bg-2, #bg-3 {
     position: absolute;
     z-index: -1;
     top: 0;
