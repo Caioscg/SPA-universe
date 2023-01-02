@@ -53,3 +53,22 @@ p {
     font-size: 1.8rem;
     line-height: 160%;
 }
+
+button {
+    font-weight: 700;
+    font-size: 1.4rem;
+    line-height: 2.4rem;
+    color: white;
+
+    padding: 1.2rem 3.2rem;
+    background-color: transparent;
+
+    border: 2px solid #FFFFFF;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    color: #02799D;
+    background-color: white;
+}
